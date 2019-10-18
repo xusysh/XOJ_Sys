@@ -35,6 +35,7 @@
 
 #include <stdio.h> /* FILE */
 #include <time.h>  /* struct tm */
+#include <limits.h>
 
 #ifdef __cplusplus
 extern "C" {
